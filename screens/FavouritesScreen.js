@@ -4,6 +4,7 @@ function FavouritesScreen() {
   return (
     <View>
       <Text>this is FavouritesScreen</Text>
+      <Text>Hello hello</Text>
     </View>
   );
 }
