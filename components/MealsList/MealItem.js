@@ -8,8 +8,8 @@ import {
 } from "react-native";
 import { useNavigation } from "@react-navigation/native";
 
-import CategoryGridTile from "./CategoryGridTile";
-import MealDetails from "./MealDetails";
+import CategoryGridTile from "../CategoryGridTile";
+import MealDetails from "../MealDetails";
 
 function MealItem({
   title,
