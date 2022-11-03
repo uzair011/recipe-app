@@ -21,14 +21,20 @@
       "supportsTablet": true
     },
     "android": {
-      "versionCode": "",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.uzair011.recipieApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0a422173-1b1f-42ad-a210-0f0d0286c7b4"
+      }
     }
   }
 }
